@@ -1,7 +1,7 @@
 name: lama rinchen
 favicon: null
-layout_spectrum: 0.25166
-typography_spectrum: 0.58539
+layout_spectrum: 0.2625192953273654
+typography_spectrum: 0.9839128849562258
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a07062'
-    - '#504f31'
-    - '#e8dddb'
-    - '#619e7f'
-    - '#1a232c'
-  brandStrength: 0.875
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9140282673761249
   lightness: 0.10192243894562125
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.5193732059560716
+  rhythmicContrast: 0.3558832078706473
 purpose: []
