@@ -1,19 +1,4 @@
-name: lama rinchen
-favicon: null
-layout_spectrum: 0.2408
 typography_spectrum: 0.56728
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#020001'
@@ -25,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.4375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2408
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: lama rinchen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: lama rinchen gyaltsen
 purpose: []
